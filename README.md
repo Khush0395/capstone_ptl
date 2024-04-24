@@ -1,9 +1,8 @@
 # capstone_ptl
 Chronic Diseases in U.S.
-Tableau Dashboard
-Link:  
+ 
 Table of Contents
-•	Tableau Dashboard
+
 •	Motivation
 •	Questions
 •	Problems and Hurdles
@@ -12,9 +11,9 @@ Table of Contents
 •	Conclusion
 
 Motivation:
-           A major cause of public health problems is chronic illness. Data analytics offers a priceless chance to dig deeper into the complex topic matter. 
+A major cause of public health problems is chronic illness. Data analytics offers a priceless chance to dig deeper into the complex topic matter. 
 
-          With a background in Nursing, I've always wondered why so many people suffer from one chronic disease or another. I'm driven to use data analytics to tackle this issue. My aim is to prevent chronic diseases in the future or at least slow their progression.
+With a background in Nursing, I've always wondered why so many people suffer from one chronic disease or another. I'm driven to use data analytics to tackle this issue. My aim is to prevent chronic diseases in the future or at least slow their progression.
 
 Questions:
 •	What are the trends in chronic disease prevalence rate over the past years, categorized by state?
